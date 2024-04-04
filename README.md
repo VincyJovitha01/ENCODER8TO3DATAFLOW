@@ -61,7 +61,7 @@ assign a2=d4|d5|d6|d7;
 endmodule
 
 */
-
+```
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 ![image](https://github.com/VincyJovitha01/ENCODER8TO3DATAFLOW/assets/147121113/ce9b50c2-d54e-4374-9267-e609149e4e47)
 
